@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaCV",
+            "request": "launch",
+            "mainClass": "com.github.antoniocaccamo.poc.javacv.JavaCV"
+        }
+    ]
+}
